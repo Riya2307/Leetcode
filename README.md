@@ -13,6 +13,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Riya2307/Leetcode/tree/master/0018-4sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Riya2307/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Riya2307/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Riya2307/Leetcode/tree/master/3731-find-missing-elements) |
@@ -63,6 +64,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Riya2307/Leetcode/tree/master/0018-4sum) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Riya2307/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Riya2307/Leetcode/tree/master/1406-stone-game-iii) |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Riya2307/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Riya2307/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
