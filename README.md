@@ -14,6 +14,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Riya2307/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riya2307/Leetcode/tree/master/0018-4sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Riya2307/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Riya2307/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -70,6 +71,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Riya2307/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riya2307/Leetcode/tree/master/0018-4sum) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Riya2307/Leetcode/tree/master/0877-stone-game) |
@@ -120,6 +122,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Riya2307/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riya2307/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Riya2307/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Riya2307/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
