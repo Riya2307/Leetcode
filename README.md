@@ -40,6 +40,7 @@
 | [0010-regular-expression-matching](https://github.com/Riya2307/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Riya2307/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Riya2307/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Riya2307/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Riya2307/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Riya2307/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Riya2307/Leetcode/tree/master/1140-stone-game-ii) |
