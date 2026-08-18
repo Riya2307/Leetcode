@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Riya2307/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Riya2307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riya2307/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0020-valid-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Riya2307/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Riya2307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riya2307/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Riya2307/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Riya2307/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -53,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Riya2307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Riya2307/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Riya2307/Leetcode/tree/master/0877-stone-game) |
