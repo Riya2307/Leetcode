@@ -85,6 +85,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Riya2307/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Riya2307/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riya2307/Leetcode/tree/master/0018-4sum) |
+| [0064-minimum-path-sum](https://github.com/Riya2307/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Riya2307/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Riya2307/Leetcode/tree/master/1140-stone-game-ii) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Riya2307/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/Riya2307/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Riya2307/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Riya2307/Leetcode/tree/master/1140-stone-game-ii) |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Riya2307/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Riya2307/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
