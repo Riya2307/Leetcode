@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/Riya2307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riya2307/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0022-generate-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Riya2307/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Riya2307/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Riya2307/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Riya2307/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Riya2307/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Riya2307/Leetcode/tree/master/1140-stone-game-ii) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riya2307/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Riya2307/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
