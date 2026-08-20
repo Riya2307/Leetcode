@@ -81,6 +81,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Riya2307/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Riya2307/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riya2307/Leetcode/tree/master/0018-4sum) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
@@ -161,4 +162,12 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Riya2307/Leetcode/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Riya2307/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Riya2307/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
