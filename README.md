@@ -94,6 +94,7 @@
 | [0877-stone-game](https://github.com/Riya2307/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Riya2307/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Riya2307/Leetcode/tree/master/1406-stone-game-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Riya2307/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Riya2307/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Riya2307/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3731-find-missing-elements](https://github.com/Riya2307/Leetcode/tree/master/3731-find-missing-elements) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Riya2307/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Riya2307/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Riya2307/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Riya2307/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
