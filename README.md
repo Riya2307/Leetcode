@@ -36,6 +36,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Riya2307/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Riya2307/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Riya2307/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Riya2307/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
@@ -190,8 +191,21 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Riya2307/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Riya2307/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Riya2307/Leetcode/tree/master/0064-minimum-path-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Riya2307/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Riya2307/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Riya2307/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
