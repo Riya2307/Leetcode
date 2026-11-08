@@ -11,6 +11,7 @@
 | [0020-valid-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Riya2307/Leetcode/tree/master/0044-wildcard-matching) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Riya2307/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Riya2307/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Riya2307/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -45,6 +46,7 @@
 | [0010-regular-expression-matching](https://github.com/Riya2307/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Riya2307/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Riya2307/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Riya2307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Riya2307/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
@@ -83,6 +85,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Riya2307/Leetcode/tree/master/0044-wildcard-matching) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Riya2307/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Riya2307/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Riya2307/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -110,6 +113,7 @@
 | [0010-regular-expression-matching](https://github.com/Riya2307/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Riya2307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/Riya2307/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Riya2307/Leetcode/tree/master/0877-stone-game) |
