@@ -92,6 +92,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Riya2307/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Riya2307/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riya2307/Leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Riya2307/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Riya2307/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/Riya2307/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Riya2307/Leetcode/tree/master/0486-predict-the-winner) |
@@ -153,6 +154,7 @@
 | [0016-3sum-closest](https://github.com/Riya2307/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riya2307/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Riya2307/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Riya2307/Leetcode/tree/master/0031-next-permutation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Riya2307/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
