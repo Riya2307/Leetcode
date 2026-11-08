@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Riya2307/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Riya2307/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Riya2307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riya2307/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Riya2307/Leetcode/tree/master/0020-valid-parentheses) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Riya2307/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Riya2307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riya2307/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Riya2307/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Riya2307/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Riya2307/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Riya2307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Riya2307/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Riya2307/Leetcode/tree/master/0050-powx-n) |
